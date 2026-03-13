@@ -1,0 +1,28 @@
+# Java / Spring Boot
+backend/target/
+backend/*.jar
+backend/.mvn/wrapper/
+backend/.project
+backend/.classpath
+backend/.settings/
+backend/bin/mvn
+backend/bin/mvn.cmd
+backend/bin/*.conf
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+
+# IDE / System
+.vscode/
+.idea/
+*.swp
+*.log
+.DS_Store
+
+# Tool Specific
+.gemini/
+/brain/
+/tmp/
